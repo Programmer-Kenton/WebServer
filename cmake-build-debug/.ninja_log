@@ -1,0 +1,9 @@
+# ninja log v5
+0	700	1716211263436057631	CMakeFiles/WebServer.dir/main.cpp.o	d809c05de59eb466
+2	715	1716211263452057631	CMakeFiles/WebServer.dir/Client/Client.cpp.o	4cf4a6539b0cc666
+1	674	1716211263412057630	CMakeFiles/WebServer.dir/Resource/Resource.cpp.o	3fdb789b7b558943
+770	836	1716211263572057636	WebServer	dabf4aece234b124
+1	715	1716211263452057631	CMakeFiles/WebServer.dir/Socket/Socket.cpp.o	3e8f4038e3868fd7
+81	770	1716211263508057633	CMakeFiles/WebServer.dir/Server/Server.cpp.o	9f2b5b5435e984ba
+2	81	1716211262816057605	CMakeFiles/WebServer.dir/Signal/Signals.cpp.o	7c84b490615c91d9
+1	80	1716211262816057605	CMakeFiles/WebServer.dir/Http/Http.cpp.o	50a0d7964bcd3556
